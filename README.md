@@ -1,6 +1,5 @@
 # LockBit - Black - Builder
 
-# MALWARE PARALYZING everything under the eye of god
 
 LockBit30.7z:
 
